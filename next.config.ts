@@ -7,8 +7,8 @@ const nextConfig: NextConfig = {
   },
   // Si tu repositorio se llama distinto a <usuario>.github.io, debes definir basePath
   // Por ejemplo, si tu repo se llama "aura":
-  // basePath: '/aura',
-  // assetPrefix: '/aura',
+  basePath: '/aura',
+  assetPrefix: '/aura',
 };
 
 export default nextConfig;
