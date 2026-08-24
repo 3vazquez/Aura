@@ -32,7 +32,7 @@
 
 ## 🚀 Demo en Vivo
 
-👉 [Ver Demo](https://3vazquez.github.io/aura) *(despliega en GitHub Pages)*
+👉 [Ver Demo](https://3vazquez.github.io/Aura) *(despliega en GitHub Pages)*
 
 ---
 
